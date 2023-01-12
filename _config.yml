@@ -19,7 +19,7 @@ locale                   : "en-UK"
 title                    : "Applied Quantitative Ecology Group (AQEG)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Applied Quantitative Ecology Group (AQEG)"
+name                     : "AQEG"
 description              : "Page of AQEG"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
