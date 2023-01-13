@@ -1,11 +1,11 @@
 ---
-title: "Splash Page"
+title: "Applied Quantitative Ecology Group"
 layout: splash
 permalink: /splash-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/thumbnail.png
+  overlay_image: /assets/Unknown-6.sb-f1261b3a-Rb5cCo
   actions:
     - label: "Download"
       url: "#test-link"
