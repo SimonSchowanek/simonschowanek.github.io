@@ -29,8 +29,6 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
- 
- feature_row2:
   - image_path: /assets/splash/feat1-1.jpg
     title: "EmptyForest"
     excerpt: "Sample text 1 with **markdown** formatting."
@@ -56,5 +54,3 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row2 %}
