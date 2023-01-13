@@ -29,9 +29,32 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+ 
+ feature_row2:
+  - image_path: /assets/splash/feat1-1.jpg
+    title: "EmptyForest"
+    excerpt: "Sample text 1 with **markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/splash/feat1-2.jpg
+    title: "CatTrack"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--secondar"
+  - image_path: /assets/splash/feat1-3.jpg
+    title: "FoxTrack"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    
 ---
 
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row2 %}
