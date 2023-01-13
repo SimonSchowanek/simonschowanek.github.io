@@ -12,19 +12,19 @@ header:
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 feature_row:
   - image_path: /assets/Unknown-3
-    title: "Placeholder 1"
+    title: "RovQuant"
     excerpt: "Sample text 1 with **markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/Unknown-4
-    title: "Placeholder 2"
+    title: "WildMap"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--secondar"
   - image_path: /assets/Cursorius_temmincki_with_juveniles.JPG
-    title: "Placeholder 3"
+    title: "BirdLand"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
