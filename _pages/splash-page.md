@@ -35,13 +35,13 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/935551-4.jpg
+  - image_path: /assets/Unknown-6
     title: "CatTrack"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/580b585b2edbce24c47b26b8.png
+  - image_path: /assets/Unknown-8
     title: "FoxTrack"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
