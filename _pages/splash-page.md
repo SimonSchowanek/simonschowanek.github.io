@@ -35,7 +35,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/CaTrack.png
+  - image_path: /assets/CatTrack.png
     title: "CatTrack"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
