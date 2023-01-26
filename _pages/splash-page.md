@@ -4,7 +4,7 @@ layout: splash
 permalink: /splash-page/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /assets/Unknown-6.sb-f1261b3a-Rb5cCo
   actions:
     - label: "Download"
