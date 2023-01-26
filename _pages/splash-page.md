@@ -31,7 +31,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/FoxTrack_Logo.png
     title: "EmptyForest"
-    excerpt: "Sample text 1 with **markdown** formatting."
+    excerpt: ". Using camera trap data we study the vulnerability to extinction of in terrestrial tropical forests mammals and we describe their activity patterns "
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
